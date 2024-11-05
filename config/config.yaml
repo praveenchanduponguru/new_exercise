@@ -1,0 +1,8 @@
+calculator:
+  input_validation: true       # Enable/disable input validation
+  angle_unit: degrees           # Units for trigonometric functions ('degrees' or 'radians')
+
+log_settings:
+  log_enabled: true             # Enable/disable logging
+  log_level: info               # Options: 'debug', 'info', 'warning', 'error', 'critical'
+  log_file: logs/scientific_calculator.log  # Log file path
